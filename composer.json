@@ -1,0 +1,40 @@
+{
+    "name": "diatem-net/jin",
+    "description": "Jin Framework",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Loïc Gérard",
+            "email": "lgerard@diatem.net"
+        },
+        {
+            "name": "Samuel Marchal",
+            "email": "smarchal@diatem.net"
+        },
+        {
+            "name": "Jean-Luc Fritz",
+            "email": "jlfritz@diatem.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "diatem-net/jin-assets": "~2.0",
+        "diatem-net/jin-cache": "~2.0",
+        "diatem-net/jin-com": "~2.0",
+        "diatem-net/jin-context": "~2.0",
+        "diatem-net/jin-dataformat": "~2.0",
+        "diatem-net/jin-db": "~2.0",
+        "diatem-net/jin-filesystem": "~2.0",
+        "diatem-net/jin-form": "~2.0",
+        "diatem-net/jin-geo": "~2.0",
+        "diatem-net/jin-image": "~2.0",
+        "diatem-net/jin-language": "~2.0",
+        "diatem-net/jin-log": "~2.0",
+        "diatem-net/jin-mail": "~2.0",
+        "diatem-net/jin-social": "~2.0",
+        "diatem-net/jin-ui": "~2.0",
+        "diatem-net/jin-utils": "~2.0",
+        "diatem-net/jin-webapp": "~2.0"
+    }
+}
