@@ -2,7 +2,7 @@
     "name": "diatem-net/jin",
     "description": "Jin Framework",
     "type": "metapackage",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Loïc Gérard",
